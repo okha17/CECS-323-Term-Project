@@ -16,6 +16,3 @@ You will also need to support generation of an Incident report - this allows a f
 
 You may assume that all flights are non-stop. You don't need to worry about changing planes or detailing portions of a flight.
 Specific instances of a flight are the actual flights from one airport to another on a specific date. Although they are set to arrive and depart at specific times, the actual times can be different.
-
-Model this enterprise using only the information supplied here. Do not model any processes not mentioned here such as payments, travel agents, customers, etc. 
-You should use your knowledge of airlines and flying in general, and you may want to pay new, closer attention to details of the operation of any airline or airport sites you may visit on the web as you are working on this assignment. 
