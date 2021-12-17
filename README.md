@@ -1,4 +1,4 @@
-# CECS-323-Term-Project
+# Airline Database
 Project Description:
 
 You are designing a database to track airline related information. I'm a frequent flyer and have found that existing airline reservation systems just don't provide the data and reports that I need to handle all my travel so I've hired you to create a specialized airline database just for me. Let's name this system "mifly". 
